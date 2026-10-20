@@ -53,7 +53,7 @@ across-mobile-pwa/
 │   ├── App.tsx               # Enrutador móvil y estados globales
 │   ├── index.css             # Directivas Tailwind y estilos táctiles móviles
 │   └── main.tsx              # Punto de entrada
-├── .cursorrules              # Reglas de desarrollo estrictas para pair-programming
+├── RULES.md                  # Reglas de desarrollo estrictas para pair-programming
 ├── index.html                # Plantilla HTML con metaetiquetas PWA y viewport bloqueado
 ├── package.json              # Dependencias y scripts
 ├── tailwind.config.js         # Tokens de tipografía y colores
@@ -88,4 +88,4 @@ npm run build
 ---
 
 ## 🛡️ Reglas de Desarrollo
-Consulta [.cursorrules](file:///c:/Users/usuario/Desktop/proyecto%20ACROSS/repos%20across/across-mobile-pwa/.cursorrules) para mantener el cumplimiento estricto de nomenclatura en español, tipado estricto sin `any`, diseño táctil mobile-first y retornos tempranos.
+Consulta [RULES.md](file:///c:/Users/usuario/Desktop/proyecto%20ACROSS/repos%20across/across-mobile-pwa/RULES.md) para mantener el cumplimiento estricto de nomenclatura en español, tipado estricto sin `any`, diseño táctil mobile-first y retornos tempranos.
